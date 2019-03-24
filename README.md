@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+March 24th 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+We examine data from 3 cities namely New York City, Washington, and Chicago to
+better understand the Bikeshare programs of these cities.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
